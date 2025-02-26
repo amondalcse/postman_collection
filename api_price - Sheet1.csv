@@ -1,0 +1,6 @@
+endpoints,country,weight
+api/price,India,1
+api/price,Albania,1
+api/price,Algeria,1
+api/price,Aruba,1
+api/price,Austria,1
